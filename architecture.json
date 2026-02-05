@@ -1,0 +1,160 @@
+{
+  "book_id": "asian-postcolonial-mythopoeic-love-mortality",
+  "title": "The Keeper of the Key",
+  "tagline": "A ghost, a key, and a river of memories: a photographer must develop the past to save her father's soul.",
+  "target_words": 70000,
+  "actual_words": 71869,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Photography as a Medium for Ghosts",
+    "Inherited Grief and Colonial Haunting",
+    "Love as an Unfinished Conversation with the Dead",
+    "Mortality as a Shared Journey Across Generations"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The First Thing the Ghost Did",
+      "words": 3000
+    },
+    {
+      "ch": 2,
+      "title": "A Useless, Beautiful Thing",
+      "words": 2900
+    },
+    {
+      "ch": 3,
+      "title": "The Road to Cần Thơ",
+      "words": 3000
+    },
+    {
+      "ch": 4,
+      "title": "The Keeper's Reflection",
+      "words": 3000
+    },
+    {
+      "ch": 5,
+      "title": "The River's Edge",
+      "words": 2900
+    },
+    {
+      "ch": 6,
+      "title": "Two Boat Tickets",
+      "words": 3000
+    },
+    {
+      "ch": 7,
+      "title": "The Darkroom Confession",
+      "words": 2900
+    },
+    {
+      "ch": 8,
+      "title": "Portrait of a Stranger's Smile",
+      "words": 3000
+    },
+    {
+      "ch": 9,
+      "title": "The Ancestor's Bargain",
+      "words": 2900
+    },
+    {
+      "ch": 10,
+      "title": "The Scent of Phở at Dawn",
+      "words": 3000
+    },
+    {
+      "ch": 11,
+      "title": "The Sepia-Toned Gaze",
+      "words": 2900
+    },
+    {
+      "ch": 12,
+      "title": "The Final Frame",
+      "words": 3000
+    },
+    {
+      "ch": 13,
+      "title": "The Unfinished Line of Poetry",
+      "words": 2900
+    },
+    {
+      "ch": 14,
+      "title": "The Map of Decline",
+      "words": 3000
+    },
+    {
+      "ch": 15,
+      "title": "The Watermark on Reality",
+      "words": 2900
+    },
+    {
+      "ch": 16,
+      "title": "The Language of Offerings",
+      "words": 3000
+    },
+    {
+      "ch": 17,
+      "title": "The Crumbling Veranda",
+      "words": 2900
+    },
+    {
+      "ch": 18,
+      "title": "The Brown, Wide River",
+      "words": 3000
+    },
+    {
+      "ch": 19,
+      "title": "The Keeper's True Name",
+      "words": 2900
+    },
+    {
+      "ch": 20,
+      "title": "The Negative's Secret",
+      "words": 3000
+    },
+    {
+      "ch": 21,
+      "title": "The Choice at the Ferry",
+      "words": 2900
+    },
+    {
+      "ch": 22,
+      "title": "Developing the Truth",
+      "words": 3000
+    },
+    {
+      "ch": 23,
+      "title": "The Past is a Root",
+      "words": 2900
+    },
+    {
+      "ch": 24,
+      "title": "Exposure",
+      "words": 3000
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character receives a mundane object from a ghost, charged with a specific, unspoken memory.",
+      "Create a conversation between a dying elder and a restless ancestor, mediated by a skeptical younger family member.",
+      "Describe a journey through a modern Asian city where the protagonist sees literal 'ghosts' of its colonial past in the architecture and street life.",
+      "Craft a myth where the River of Forgetfulness requires a photograph as the toll for passage, instead of a coin."
+    ],
+    "technical": [
+      "Build an interactive website where users can 'develop' a ghostly image by hovering over different parts of a photographic negative.",
+      "Create a text generator that blends Vietnamese poetic forms (like lục bát) with descriptions of photographic development chemicals and processes."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Marguerite Duras",
+      "Haruki Murakami",
+      "Ocean Vuong",
+      "Apichatpong Weerasethakul"
+    ]
+  },
+  "cover_prompt": "A spectral woman, her form woven from swirling river water and old photographic silver, reaches a translucent hand towards a living photographer who holds a large-format camera, their connection forming a bridge between worlds on a misty riverbank at dusk. The scene is set where a colonial-era pier meets a dark, slow-moving tropical river, with ghostly negatives of forgotten ancestors floating like water lilies and the roots of ancient banyan trees cradling old, submerged camera parts, all under a sky the color of a faded cyanotype. In the profoundly atmospheric and mythic style of Zdzisław Beksiński's haunting surrealism and the melancholic, layered storytelling of Gregory Crewdson's photographic tableaux, evoking a sense of deep, inherited memory. Book cover framing, centered and symmetrical composition with a low, dramatic angle looking up slightly at the two figures, emphasizing the river as a vast, reflective plane. Ethereal, volumetric lighting cuts through the mist with a cool, moonlight temperature, contrasting with the warm, amber glow emanating from the key hanging from the photographer's neck, using a palette of desaturated blues, silvers, and deep blacks punctuated by sepia and gold. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
